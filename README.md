@@ -38,7 +38,7 @@ compatible with openssl, so you are not restrained.
 
 ```
 # Get the CLI:
-go get github.com/google/easypki/cmd/easypki
+go install github.com/google/easypki/cmd/easypki@latest
 
 
 # You can also pass the following through arguments if you do not want to use
