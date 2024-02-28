@@ -23,8 +23,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/google/easypki/pkg/certificate"
-	"github.com/google/easypki/pkg/store"
+	"github.com/ad3m3r5/easypki/pkg/certificate"
+	"github.com/ad3m3r5/easypki/pkg/store"
 )
 
 const (
