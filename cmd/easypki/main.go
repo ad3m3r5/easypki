@@ -158,7 +158,7 @@ func (r *router) run() {
 	app.Usage = "Manage pki"
 	app.Author = "Jeremy Clerc"
 	app.Email = "jeremy@clerc.io"
-	app.Version = "1.2.0"
+	app.Version = "1.2.1"
 
 	caNameFlag := cli.StringFlag{
 		Name:  "ca-name",
